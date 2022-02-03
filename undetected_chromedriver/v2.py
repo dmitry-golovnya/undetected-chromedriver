@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # this module is part of undetected_chromedriver
 
-from __future__ import annotations
-
 import asyncio
 import json
 import logging
